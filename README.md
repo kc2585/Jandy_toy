@@ -4,9 +4,11 @@
 
 <br>
 
+<div align="center">
+![복두꺼비](https://user-images.githubusercontent.com/52477052/112739470-8fd3c000-8faf-11eb-8a0c-12d65f089466.png)
+</div>
 
-
-<br>
+<br><br>
 
 ## 🛠 사용기술
 
